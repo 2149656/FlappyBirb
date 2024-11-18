@@ -5,7 +5,7 @@ import { Score } from '../models/score';
 import { RegisterDTO } from '../models/RegisterDTO';
 
 
-const domain : string = "https://localhost:5000/";
+const domain : string = "https://localhost:7018/";
 
 @Injectable({
   providedIn: 'root',

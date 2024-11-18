@@ -7,7 +7,7 @@ import { lastValueFrom } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { LoginDTO } from '../models/LoginDTO';
 
-const domain: string = 'https://localhost:5000/';
+const domain: string = 'https://localhost:7018/';
 
 @Component({
   selector: 'app-login',
